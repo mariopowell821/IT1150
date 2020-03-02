@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+}
+<a href="https://www.rogerebert.com/reviews/training-day-2001">Training Day Review</a>
+<title>Training Day</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="format2.css">
+
+</head>
+<body> 
+<h2>Cast<h2>
+<ul>
+<li>Denzel Washington (Alonzo)</li>
+<li>Ethan Hawke (Jake)</li>
+</ul>
+
+<p>He plays Alonzo as the meanest, baddest narcotics cop in the city--a dude who cruises the mean streets in his confiscated customized Caddy, extracting tribute and accumulating graft like a medieval warlord shaking down his serfs. His pose is that the job must be done this way: If you don't intimidate the street, it will kill you. This is the lesson he's teaching Jake Hoyt (Ethan Hawke), a young cop who dreams of being promoted to the elite narc squad. This is Jake's first day of training, and he's been placed in the hands of Alonzo for a taste of street reality. Jake's dream: Get a promotion so he can move his wife and child to a nicer house. This may not turn out to be a wise career move. Just as a warm-up, Alonzo forces him to smoke pot (it turns out to be laced with PCP): If you turn down gifts on the street, he's told, "you'll be dead." He watches as Jake stops two punks who are raping a girl, and then instead of arresting the rapists, Alonzo thoroughly and competently beats them.</p>
+</body>
+</html>
